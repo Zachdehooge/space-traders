@@ -22,12 +22,6 @@ var (
 			Foreground(lipgloss.Color("#f25c00")).
 			PaddingTop(1).
 			PaddingLeft(4)
-
-	backOptionStyle = lipgloss.NewStyle().
-			Bold(true).
-			Foreground(lipgloss.Color("#888888")).
-			PaddingTop(1).
-			PaddingLeft(2)
 )
 
 type item struct {
