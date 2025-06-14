@@ -1,6 +1,6 @@
 # 🚀 Space Traders CLI
 
-**Space Traders CLI** is a terminal-based interface for the [SpaceTraders.io](https://spacetraders.io) API, built with **Go** and the [Bubble Tea](https://github.com/charmbracelet/bubbletea) framework.
+**Space Traders CLI** is a terminal-based interface for the [SpaceTraders.io](https://spacetraders.io) API, built with **Go**
 
 ## ✨ Features
 
