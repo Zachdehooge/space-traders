@@ -8,7 +8,6 @@
 - 🌌 **Galaxy Navigation**: Explore systems and waypoints.
 - 📈 **Market Insights**: Get real-time market data, trade goods, and optimize profits.
 - 📄 **Contracts & Mining**: Accept contracts, mine asteroids, and deliver cargo.
-- ⚙️ **Built with Go + Bubble Tea**: Fast, efficient, and terminal-native.
 
 ## 📝 TODO
 - [ ] Implement Fleet Management
