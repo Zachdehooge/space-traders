@@ -2,10 +2,11 @@ package api
 
 import (
 	"encoding/json"
-	"github.com/joho/godotenv"
 	"log"
 	"net/http"
 	"os"
+
+	"github.com/joho/godotenv"
 )
 
 const (

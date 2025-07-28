@@ -1,0 +1,11 @@
+# https://taskfile.dev
+
+version: '3'
+
+vars:
+  AGENT: agent
+
+tasks:
+  agent:
+    cmds:
+      - go run main.go {{.AGENT}}
