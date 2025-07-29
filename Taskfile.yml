@@ -2,10 +2,10 @@
 
 version: '3'
 
-vars:
-  AGENT: agent
-
 tasks:
   agent:
     cmds:
-      - go run main.go {{.AGENT}}
+      - go run main.go agent -credits
+  server:
+    cmds:
+      - go run main.go server
