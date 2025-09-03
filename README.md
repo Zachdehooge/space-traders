@@ -1,6 +1,6 @@
 # 🚀 Space Traders CLI
 
-**Space Traders CLI** is a CLI-based interface for the [SpaceTraders.io](https://spacetraders.io) API, built with **Go**
+**Space Traders CLI** is a CLI interface for the [SpaceTraders.io](https://spacetraders.io) API, built with **Go**
 
 ## ✨ Features
 
