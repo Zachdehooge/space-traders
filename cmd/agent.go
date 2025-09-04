@@ -22,5 +22,6 @@ func init() {
 	rootCmd.AddCommand(agentCmd)
 
 	agentCmd.Flags().StringP("credits", "c", "", "Credits")
-	//agentCmd.SetUsageTemplate("\nUsage: space-traders agent [flag]\n")
+	agentCmd.MarkFlagsOneRequired("credits")
+	agentCmd.SetUsageTemplate("\nExample Usage: space-traders agent -credits\n")
 }
