@@ -22,7 +22,7 @@ func agentToken() string {
 		log.Fatal("Error loading .env file")
 	}
 
-	token := os.Getenv("TOKEN")
+	token := os.Getenv("ACCOUNTTOKEN")
 
 	return token
 }
